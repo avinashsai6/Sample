@@ -2,12 +2,12 @@
 <testng-results skipped="13" failed="0" total="13" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="2216" started-at="2017-06-13T07:27:09Z" finished-at="2017-06-13T07:27:11Z">
+  <suite name="Suite" duration-ms="2294" started-at="2017-06-13T09:43:47Z" finished-at="2017-06-13T09:43:49Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="2216" started-at="2017-06-13T07:27:09Z" finished-at="2017-06-13T07:27:11Z">
+    <test name="Test" duration-ms="2294" started-at="2017-06-13T09:43:47Z" finished-at="2017-06-13T09:43:49Z">
       <class name="KontaktTelecom.KontaktTelecom">
-        <test-method status="FAIL" signature="setUp()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="setUp" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:09Z" finished-at="2017-06-13T12:57:09Z">
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="setUp" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:47Z" finished-at="2017-06-13T15:13:47Z">
           <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
@@ -104,110 +104,110 @@ Caused by: java.net.ConnectException: Connection refused: connect
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="SetUp()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="SetUp" duration-ms="1" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="SetUp()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="SetUp" duration-ms="1" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="EnableServiceStickers()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="EnableServiceStickers" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="EnableServiceStickers()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="EnableServiceStickers" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnableServiceStickers -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="StickersKeyBoardSelection()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="StickersKeyBoardSelection" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="StickersKeyBoardSelection()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="StickersKeyBoardSelection" duration-ms="1" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StickersKeyBoardSelection -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="NewMessage()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="NewMessage" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- NewMessage -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="TwitterChannelSelection()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="TwitterChannelSelection" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="TwitterChannelSelection()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="TwitterChannelSelection" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TwitterChannelSelection -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="NewMessage()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="NewMessage" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewMessage -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="Sticker1()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker1" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="Sticker1()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker1" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sticker1 -->
-        <test-method status="SKIP" signature="Sticker2()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker2" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="Sticker2()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker2" duration-ms="1" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sticker2 -->
-        <test-method status="SKIP" signature="Sticker3()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker3" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="Sticker3()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker3" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sticker3 -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="Sticker4()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker4" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="Sticker4()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker4" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sticker4 -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="Sticker5()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker5" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sticker5 -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="Sticker6()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker6" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="Sticker6()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker6" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sticker6 -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="Sticker7()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker7" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="Sticker5()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker5" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sticker5 -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="Sticker7()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker7" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sticker7 -->
-        <test-method status="SKIP" signature="Sticker8()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker8" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sticker8 -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T12:57:11Z" finished-at="2017-06-13T12:57:11Z">
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="Sticker8()[pri:0, instance:KontaktTelecom.KontaktTelecom@2d3fcdbd]" name="Sticker8" duration-ms="0" started-at="2017-06-13T15:13:49Z" finished-at="2017-06-13T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sticker8 -->
       </class> <!-- KontaktTelecom.KontaktTelecom -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

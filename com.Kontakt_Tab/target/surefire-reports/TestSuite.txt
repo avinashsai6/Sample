@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 27, Failures: 1, Errors: 0, Skipped: 26, Time elapsed: 3.356 sec <<< FAILURE!
-setUp(KontaktTelecom.KontaktTelecom)  Time elapsed: 2.62 sec  <<< FAILURE!
+Tests run: 27, Failures: 1, Errors: 0, Skipped: 26, Time elapsed: 3.81 sec <<< FAILURE!
+setUp(KontaktTelecom.KontaktTelecom)  Time elapsed: 2.861 sec  <<< FAILURE!
 org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
 Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
 System info: host: 'Testing-2', ip: '172.16.20.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
