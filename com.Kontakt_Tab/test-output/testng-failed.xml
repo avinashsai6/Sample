@@ -5,8 +5,12 @@
     <classes>
       <class name="KontaktTelecom.KontaktTelecom">
         <methods>
-          <include name="SetUp"/>
+          <include name="Sticker7"/>
+          <include name="Sticker8"/>
           <include name="setUp"/>
+          <include name="Sticker5"/>
+          <include name="tearDown"/>
+          <include name="Sticker6"/>
         </methods>
       </class> <!-- KontaktTelecom.KontaktTelecom -->
     </classes>

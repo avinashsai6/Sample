@@ -5,20 +5,16 @@
     <classes>
       <class name="KontaktTelecom.KontaktTelecom">
         <methods>
-          <include name="TwitterChannelSelection"/>
-          <include name="SetUp"/>
           <include name="Sticker7"/>
           <include name="Sticker8"/>
           <include name="setUp"/>
           <include name="Sticker5"/>
+          <include name="tearDown"/>
           <include name="Sticker6"/>
           <include name="Sticker3"/>
-          <include name="EnableServiceStickers"/>
           <include name="Sticker4"/>
           <include name="Sticker1"/>
           <include name="Sticker2"/>
-          <include name="NewMessage"/>
-          <include name="StickersKeyBoardSelection"/>
         </methods>
       </class> <!-- KontaktTelecom.KontaktTelecom -->
     </classes>

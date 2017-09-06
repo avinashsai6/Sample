@@ -19,7 +19,7 @@ public class NewMessage
 	public static WebElement StartMessage(AndroidDriver driver) throws InterruptedException
 	 {
 		 
-	     element = driver.findElement(By.name("Start a new message"));
+	     element = driver.findElement(By.name("Start a message"));
 	 
 	    return element;
 	 
